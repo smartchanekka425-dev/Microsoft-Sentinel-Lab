@@ -90,11 +90,6 @@ Identified source account
 Analyzed event timeline
 Reviewed Event ID 4625 logs
 
-Screenshots
-
-07-Incident-Created.png
-08-Incident-Investigation.png
-
 ## KQL Queries
 Failed Log in Events
 --SecurityEvent
